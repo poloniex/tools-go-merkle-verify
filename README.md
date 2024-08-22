@@ -2,7 +2,7 @@
 
 ## Background
 
-Poloniex launches [Proof of Reserves (PoR)]() to improve the security and transparency of user's assets. These tools will allow
+Poloniex launches [Proof of Reserves (PoR)](https://poloniex.com/topic/security/proof-of-reserves) to improve the security and transparency of user's assets. These tools will allow
 you to verify the validity of your assets in the merkle sum tree by verify merkle proof file, in order to confirm your assets in Poloniex.
 
 ## Introduction
